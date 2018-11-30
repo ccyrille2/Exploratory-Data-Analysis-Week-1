@@ -54,5 +54,3 @@ When you are finished with the assignment, push your git repository to GitHub so
 <p>The four plots that you will need to construct are shown below.</p>
 </article>
   </div>
-
-    </div>
